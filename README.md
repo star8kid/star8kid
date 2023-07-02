@@ -5,8 +5,8 @@
       Python and Arduino X_X;;
 - 💞️ I’m looking to collaborate on ...
       I can't. Not smart enough yet. Sorry.
-- 📫 How to reach me ...
-      ...*no*
+- 📫 How to reach me ... DNI
+      
      
 
 <!---
