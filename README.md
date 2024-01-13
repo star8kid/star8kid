@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning ...
       Arduino, C++ Concepts and Python
 - 💞️ I’m looking to collaborate on ...
-      I can't. Not smart enough yet. Sorry.
-- 📫 How to reach me ... DNI
+      
+- 📫 How to reach me ... 
       
      
 
